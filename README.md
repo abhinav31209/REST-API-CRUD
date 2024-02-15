@@ -12,8 +12,6 @@ This is a sample README template for a RESTful API that performs CRUD operations
   - [Installation](#installation)
 - [Usage](#usage)
 - [Examples](#examples)
-- [Testing](#testing)
-- [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
